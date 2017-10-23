@@ -5,7 +5,7 @@
     <MinimumVisualStudioVersion>10.0</MinimumVisualStudioVersion>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0B137102-2DA9-4AD1-956C-0EF6ABEBF5A8}</ProjectGuid>
+    <ProjectGuid>{CC866883-158D-4C83-B66B-3FF9585A6306}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>PrismUnityApp1</RootNamespace>
